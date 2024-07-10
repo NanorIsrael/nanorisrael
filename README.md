@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
 <h3 align="center">A passionate software engineer from Ghana 🇬🇭 </h3>
 
-<p align="left"> <a href="https://twitter.com/eric_hackman" target="blank"><img src="https://img.shields.io/twitter/follow/gracevalley?logo=twitter&style=for-the-badge" alt="israel_nanor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gracevalleysoft" target="blank"><img src="https://img.shields.io/twitter/follow/gracevalleysoft?logo=twitter&style=for-the-badge" alt="israel_nanor" /></a> </p>
 
 
 
